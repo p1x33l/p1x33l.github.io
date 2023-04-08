@@ -207,14 +207,14 @@ input:focus, textarea:focus, select:focus, button:focus {
 }
 /*---------- Button css End -------*/
 .prt_btn{
-    height: 50px;
-    line-height: 50px;
+    height: 30px;
+    line-height: 30px;
     color: #ffffff;
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 400;
     border-radius: 4px;
     padding: 0 20px;
-	min-width:140px;
+	min-width:110px;
     outline: none;
     cursor: pointer;
     display: inline-block;
