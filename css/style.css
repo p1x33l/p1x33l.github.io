@@ -212,7 +212,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     color: #ffffff;
     font-size: 15px;
     font-weight: 400;
-    border-radius: 0px;
+    border-radius: 4px;
     padding: 0 20px;
 	min-width:140px;
     outline: none;
